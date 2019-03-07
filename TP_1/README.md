@@ -40,7 +40,7 @@ In general:
 - to remove any the following users: `DROP USER <username> CASCADE;`
 
 
-The following accounts `BI`, `HR`, `IX`, `OE`, `PM`, `SCOTT` et `SH` have a known account password. And in case the accounts still exist in the data base and have not changed the password, this may represent a security threat and an easy exploit to obtain an unauthorized access to the data.
+The following accounts `BI`, `HR`, `IX`, `OE`, `PM`, `SCOTT` and `SH` have a known account password. And in case the accounts still exist in the data base and have not changed the password, this may represent a security threat and an easy exploit to obtain an unauthorized access to the data.
 
 
 
